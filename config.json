@@ -1,49 +1,6 @@
 {
   "settings": {
-    "theme": "fb",
-    "locale": "en",
-    "expandGroups": true,
-    "listViewWidth": null,
-    "menuViewWidth": null,
-    "tagsViewHeight": null,
-    "autoUpdate": "install",
-    "autoSave": true,
-    "rememberKeyFiles": false,
-    "idleMinutes": 15,
-    "tableView": false,
-    "colorfulIcons": false,
-    "lockOnCopy": false,
-    "skipOpenLocalWarn": false,
-    "hideEmptyFields": false,
-    "skipHttpsWarning": false,
-    "demoOpened": false,
-    "fontSize": 0,
-    "tableViewColumns": null,
-    "generatorPresets": null,
-    "cacheConfigSettings": false,
-    "canOpen": true,
-    "canOpenDemo": false,
-    "canOpenSettings": true,
-    "canCreate": true,
-    "canImportXml": true,
-    "dropbox": false,
-    "dropboxFolder": null,
-    "dropboxAppKey": null,
-    "webdav": true,
-    "webdavSaveMethod": "move",
     "gdrive": true,
-    "gdriveClientId": "553206539041-0cadrgjlvi9294hlje7k8j93ghbfsc8s.apps.googleusercontent.com",
-    "onedrive": false,
-    "onedriveClientId": null
-  },
-  "files": [{
-    "storage": "webdav",
-    "name": "My file",
-    "path": "webdav-url",
-    "options": { "user": "", "password": "" }
-  }],
-  "showOnlyFilesFromConfig": false,
-  "plugins": [{
-    "url": ""
-  }]
+    "gdriveClientId": "553206539041-0cadrgjlvi9294hlje7k8j93ghbfsc8s.apps.googleusercontent.com"
+  }
 }
