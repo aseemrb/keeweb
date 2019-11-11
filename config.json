@@ -36,7 +36,7 @@
     "webdavSaveMethod": "move", // how to save files with WebDAV ("move" or "put")
 
     "gdrive": true, // enable Google Drive
-    "gdriveClientId": "446073672542-2kg5pcvs7mal2314lfqcsnmp1jpn9ltn.apps.googleusercontent.com", // custom client id
+    "gdriveClientId": "553206539041-0cadrgjlvi9294hlje7k8j93ghbfsc8s.apps.googleusercontent.com", // custom client id
 
     "onedrive": false, // enable OneDrive
     "onedriveClientId": null // custom client id
