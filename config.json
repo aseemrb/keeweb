@@ -2,6 +2,8 @@
   "settings": {
     "canOpenDemo": false,
     "gdrive": true,
-    "gdriveClientId": "553206539041-0cadrgjlvi9294hlje7k8j93ghbfsc8s.apps.googleusercontent.com"
+    "onedrive": true,
+    "gdriveClientId": "553206539041-0cadrgjlvi9294hlje7k8j93ghbfsc8s.apps.googleusercontent.com",
+    "onedriveClientId" : "b5a0c216-6643-49ee-b4b6-134fdb27b3d0"
   }
 }
